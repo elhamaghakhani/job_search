@@ -28,7 +28,10 @@ A simple job searching and posting website, implemented with PHP programming lan
 - <b>run: php artisan key:generate</b>
 - <b>Best of luck</b>
 
-
+<p align="center">
+<img src="https://i.imgur.com/2uS2487.png" height="60%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
