@@ -1,8 +1,7 @@
 
 
 
-A simple job searching and posting website, implemented in laravel framework.
-<h1>ـob searching and posting website</h1>
+<h1>Job searching and posting website</h1>
 
 
 <h2>Description</h2>
